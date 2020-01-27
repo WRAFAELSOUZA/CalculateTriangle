@@ -220,7 +220,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 8292841645,
+  "duration": 12896311404,
   "status": "passed"
 });
 formatter.scenario({
@@ -269,7 +269,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 740097098,
+  "duration": 1126279215,
   "status": "passed"
 });
 formatter.match({
@@ -290,7 +290,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 144938013,
+  "duration": 148606325,
   "status": "passed"
 });
 formatter.match({
@@ -303,7 +303,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 695346891,
+  "duration": 662317595,
   "status": "passed"
 });
 formatter.match({
@@ -316,15 +316,15 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 44865209,
+  "duration": 35060706,
   "status": "passed"
 });
 formatter.after({
-  "duration": 674709203,
+  "duration": 707447823,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3282079393,
+  "duration": 3927755112,
   "status": "passed"
 });
 formatter.scenario({
@@ -373,7 +373,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 634834384,
+  "duration": 850747728,
   "status": "passed"
 });
 formatter.match({
@@ -394,7 +394,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 132489055,
+  "duration": 144451139,
   "status": "passed"
 });
 formatter.match({
@@ -407,7 +407,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 610099766,
+  "duration": 641556151,
   "status": "passed"
 });
 formatter.match({
@@ -420,15 +420,15 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 37397584,
+  "duration": 42992869,
   "status": "passed"
 });
 formatter.after({
-  "duration": 705499721,
+  "duration": 2104998600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3523074174,
+  "duration": 4435895849,
   "status": "passed"
 });
 formatter.scenario({
@@ -477,7 +477,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 645803098,
+  "duration": 647804023,
   "status": "passed"
 });
 formatter.match({
@@ -498,7 +498,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 130607359,
+  "duration": 135004624,
   "status": "passed"
 });
 formatter.match({
@@ -511,7 +511,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 747588568,
+  "duration": 713382683,
   "status": "passed"
 });
 formatter.match({
@@ -524,15 +524,15 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 26874996,
+  "duration": 40956931,
   "status": "passed"
 });
 formatter.after({
-  "duration": 659420495,
+  "duration": 899637425,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3405280703,
+  "duration": 3422843203,
   "status": "passed"
 });
 formatter.scenario({
@@ -581,7 +581,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 701846501,
+  "duration": 608599902,
   "status": "passed"
 });
 formatter.match({
@@ -602,7 +602,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 140958198,
+  "duration": 140886359,
   "status": "passed"
 });
 formatter.match({
@@ -615,7 +615,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 568063742,
+  "duration": 564532769,
   "status": "passed"
 });
 formatter.match({
@@ -628,15 +628,15 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 40735377,
+  "duration": 28049169,
   "status": "passed"
 });
 formatter.after({
-  "duration": 664406357,
+  "duration": 677914185,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3369613591,
+  "duration": 3337769638,
   "status": "passed"
 });
 formatter.scenario({
@@ -685,7 +685,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 1091462701,
+  "duration": 642294764,
   "status": "passed"
 });
 formatter.match({
@@ -706,7 +706,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 196828946,
+  "duration": 136931295,
   "status": "passed"
 });
 formatter.match({
@@ -719,7 +719,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 581816969,
+  "duration": 762759857,
   "status": "passed"
 });
 formatter.match({
@@ -732,15 +732,15 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 32746468,
+  "duration": 30103822,
   "status": "passed"
 });
 formatter.after({
-  "duration": 649389007,
+  "duration": 814396638,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3374456982,
+  "duration": 3269365415,
   "status": "passed"
 });
 formatter.scenario({
@@ -789,7 +789,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 896292689,
+  "duration": 652313877,
   "status": "passed"
 });
 formatter.match({
@@ -810,7 +810,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 134949085,
+  "duration": 136320363,
   "status": "passed"
 });
 formatter.match({
@@ -823,7 +823,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 615370568,
+  "duration": 521020426,
   "status": "passed"
 });
 formatter.match({
@@ -836,16 +836,16 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 41360194,
+  "duration": 39840107,
   "error_message": "org.junit.ComparisonFailure: expected:\u003c[Valor não forma um Triângulo]\u003e but was:\u003c[Triângulo Isósceles]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat calculotriangulo.Steps.the_result_is(Steps.java:61)\r\n\tat ✽.Then the result is \"Valor não forma um Triângulo\"(Steps.feature:8)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 663041720,
+  "duration": 637699489,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3239646444,
+  "duration": 3413911333,
   "status": "passed"
 });
 formatter.scenario({
@@ -894,7 +894,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 639433885,
+  "duration": 658873856,
   "status": "passed"
 });
 formatter.match({
@@ -915,7 +915,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 134421763,
+  "duration": 129464879,
   "status": "passed"
 });
 formatter.match({
@@ -928,7 +928,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 732850423,
+  "duration": 557080842,
   "status": "passed"
 });
 formatter.match({
@@ -941,16 +941,16 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 38325453,
+  "duration": 43381644,
   "error_message": "org.junit.ComparisonFailure: expected:\u003c[Valor não forma um Triângulo]\u003e but was:\u003c[Triângulo Isósceles]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat calculotriangulo.Steps.the_result_is(Steps.java:61)\r\n\tat ✽.Then the result is \"Valor não forma um Triângulo\"(Steps.feature:8)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 646559822,
+  "duration": 636762263,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3381401510,
+  "duration": 3222131032,
   "status": "passed"
 });
 formatter.scenario({
@@ -999,7 +999,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 644540787,
+  "duration": 654032275,
   "status": "passed"
 });
 formatter.match({
@@ -1020,7 +1020,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 131195049,
+  "duration": 132314891,
   "status": "passed"
 });
 formatter.match({
@@ -1033,7 +1033,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 745976720,
+  "duration": 529652867,
   "status": "passed"
 });
 formatter.match({
@@ -1046,16 +1046,16 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 42231618,
+  "duration": 28343769,
   "error_message": "org.junit.ComparisonFailure: expected:\u003c[Valor não forma um Triângulo]\u003e but was:\u003c[Triângulo Isósceles]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat calculotriangulo.Steps.the_result_is(Steps.java:61)\r\n\tat ✽.Then the result is \"Valor não forma um Triângulo\"(Steps.feature:8)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 635173355,
+  "duration": 704577889,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3540129575,
+  "duration": 3336061200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1104,7 +1104,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 662125925,
+  "duration": 661523745,
   "status": "passed"
 });
 formatter.match({
@@ -1125,7 +1125,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 155758824,
+  "duration": 134317627,
   "status": "passed"
 });
 formatter.match({
@@ -1138,7 +1138,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 633608595,
+  "duration": 565384875,
   "status": "passed"
 });
 formatter.match({
@@ -1151,16 +1151,16 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 30444302,
+  "duration": 36406630,
   "error_message": "org.junit.ComparisonFailure: expected:\u003c[Valor não forma um Triângul]o\u003e but was:\u003c[Triângulo Equiláter]o\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat calculotriangulo.Steps.the_result_is(Steps.java:61)\r\n\tat ✽.Then the result is \"Valor não forma um Triângulo\"(Steps.feature:8)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 737502445,
+  "duration": 640585723,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3370865943,
+  "duration": 3305308714,
   "status": "passed"
 });
 formatter.scenario({
@@ -1209,7 +1209,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 657063093,
+  "duration": 644502452,
   "status": "passed"
 });
 formatter.match({
@@ -1230,7 +1230,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 146071136,
+  "duration": 137576639,
   "status": "passed"
 });
 formatter.match({
@@ -1243,7 +1243,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 580547412,
+  "duration": 407044982,
   "status": "passed"
 });
 formatter.match({
@@ -1256,15 +1256,15 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 30121933,
+  "duration": 28624786,
   "status": "passed"
 });
 formatter.after({
-  "duration": 662389434,
+  "duration": 642489453,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3806951048,
+  "duration": 3547208425,
   "status": "passed"
 });
 formatter.scenario({
@@ -1313,7 +1313,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 677843251,
+  "duration": 641269097,
   "status": "passed"
 });
 formatter.match({
@@ -1334,7 +1334,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 134388862,
+  "duration": 135610727,
   "status": "passed"
 });
 formatter.match({
@@ -1347,7 +1347,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 446655688,
+  "duration": 429071757,
   "status": "passed"
 });
 formatter.match({
@@ -1360,15 +1360,15 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 31772115,
+  "duration": 27773586,
   "status": "passed"
 });
 formatter.after({
-  "duration": 659652915,
+  "duration": 969303657,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4156508303,
+  "duration": 3248479913,
   "status": "passed"
 });
 formatter.scenario({
@@ -1417,7 +1417,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 5657583472,
+  "duration": 622183493,
   "status": "passed"
 });
 formatter.match({
@@ -1438,7 +1438,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 140085265,
+  "duration": 140217775,
   "status": "passed"
 });
 formatter.match({
@@ -1451,7 +1451,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 391673871,
+  "duration": 648076891,
   "status": "passed"
 });
 formatter.match({
@@ -1464,15 +1464,15 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 38524972,
+  "duration": 31437973,
   "status": "passed"
 });
 formatter.after({
-  "duration": 3838946829,
+  "duration": 1340859012,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3663150685,
+  "duration": 3349860005,
   "status": "passed"
 });
 formatter.scenario({
@@ -1521,7 +1521,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 652955296,
+  "duration": 628652616,
   "status": "passed"
 });
 formatter.match({
@@ -1542,7 +1542,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 167236447,
+  "duration": 128804443,
   "status": "passed"
 });
 formatter.match({
@@ -1555,7 +1555,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 392336721,
+  "duration": 461972769,
   "status": "passed"
 });
 formatter.match({
@@ -1568,15 +1568,15 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 27180763,
+  "duration": 27759097,
   "status": "passed"
 });
 formatter.after({
-  "duration": 699302559,
+  "duration": 636621603,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2962797708,
+  "duration": 3288072206,
   "status": "passed"
 });
 formatter.scenario({
@@ -1625,7 +1625,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 638784015,
+  "duration": 653547212,
   "status": "passed"
 });
 formatter.match({
@@ -1646,7 +1646,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 137189071,
+  "duration": 131645401,
   "status": "passed"
 });
 formatter.match({
@@ -1659,7 +1659,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 431981836,
+  "duration": 537230060,
   "status": "passed"
 });
 formatter.match({
@@ -1672,15 +1672,15 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 27003581,
+  "duration": 30132800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 665574796,
+  "duration": 712446966,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3218674011,
+  "duration": 3308274332,
   "status": "passed"
 });
 formatter.scenario({
@@ -1729,7 +1729,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 612271534,
+  "duration": 651237802,
   "status": "passed"
 });
 formatter.match({
@@ -1750,7 +1750,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 131130153,
+  "duration": 130397577,
   "status": "passed"
 });
 formatter.match({
@@ -1763,7 +1763,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 382724493,
+  "duration": 533210704,
   "status": "passed"
 });
 formatter.match({
@@ -1776,15 +1776,15 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 28604562,
+  "duration": 29522471,
   "status": "passed"
 });
 formatter.after({
-  "duration": 651144834,
+  "duration": 658175690,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3220536390,
+  "duration": 3365571899,
   "status": "passed"
 });
 formatter.scenario({
@@ -1833,7 +1833,7 @@ formatter.match({
   "location": "Steps.the_user_access_the_url(String)"
 });
 formatter.result({
-  "duration": 656303955,
+  "duration": 643463807,
   "status": "passed"
 });
 formatter.match({
@@ -1854,7 +1854,7 @@ formatter.match({
   "location": "Steps.the_user_write_the_value_in(String,String,String)"
 });
 formatter.result({
-  "duration": 122338036,
+  "duration": 124844852,
   "status": "passed"
 });
 formatter.match({
@@ -1867,7 +1867,7 @@ formatter.match({
   "location": "Steps.the_user_press_on_button(String)"
 });
 formatter.result({
-  "duration": 394656694,
+  "duration": 452534102,
   "status": "passed"
 });
 formatter.match({
@@ -1880,11 +1880,11 @@ formatter.match({
   "location": "Steps.the_result_is(String)"
 });
 formatter.result({
-  "duration": 31477817,
+  "duration": 32779972,
   "status": "passed"
 });
 formatter.after({
-  "duration": 646795260,
+  "duration": 643455959,
   "status": "passed"
 });
 });

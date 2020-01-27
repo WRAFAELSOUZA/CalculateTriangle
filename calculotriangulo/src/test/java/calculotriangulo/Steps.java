@@ -21,9 +21,9 @@ public class Steps {
 	@Before
 	public void startChrome() {
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Users\\rafael.souza\\eclipse-workspace\\calculotriangulo\\drivers\\Chrome\\79\\chromedriver.exe");
+				"C:\\Users\\rafael.souza\\git\\calculateTriangle\\calculotriangulo\\drivers\\Chrome\\79\\chromedriver.exe");
 		ChromeOptions options = new ChromeOptions ();
-		options.addArguments("headless");
+		options.addArguments("--headless");
 		driver = new ChromeDriver(options);
 	}
 
