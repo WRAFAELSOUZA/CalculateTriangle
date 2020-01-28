@@ -19,7 +19,7 @@ public class Steps {
 	@Before
 	public void startChrome() {
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\WorkSpaces\\calculartriangulo\\webdriver\\chrome\\79\\chromedriver.exe");
+				"C:\\Users\\engci\\git\\calculateTriangle3\\calculotriangulo\\drivers\\Chrome\\79\\chromedriver.exe");
 				driver = new ChromeDriver();
 	}
 

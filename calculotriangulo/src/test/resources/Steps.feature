@@ -1,4 +1,3 @@
-#utf-8
 Feature: CalculateTriangle
 
   Scenario Outline: Validate scenario
