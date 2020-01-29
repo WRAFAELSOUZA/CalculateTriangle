@@ -12,9 +12,9 @@ import cucumber.api.junit.Cucumber;
 		features = { "src/test/resources/" },
 		glue = { "calculotriangulo/" },
 		plugin = { "pretty",
-				   "html:target/relatorio1.html",
-				   "json:target/relatorio1.json",
-				   "com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/relatorio2.html"
+				   "html:target/relatorio.html",
+				   "json:target/relatorio.json",
+				   "com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/relatorio.html"
 		}
 )
 
